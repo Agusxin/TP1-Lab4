@@ -1,7 +1,7 @@
 DATOS PERSONALES:
 
 Nombre: Fernando Agustin Arias
-DNI: 25.456.766
+DNI: 25.456.786
 Lugar y Fecha de nacimiento: 12 de agosto de 1965 - Neuquen
 Dirección: 9 de julio 1138 Barrio San martin
 
@@ -17,7 +17,7 @@ Experiencia Profesional:
 
 IDIOMAS:
 
-Inglés: nivel b2
+Inglés: nivel a1
 
 Conociemientos en desarrollo:
 
@@ -25,5 +25,5 @@ Conociemientos en desarrollo:
 -C#
 -Base de Datos Relacionales
 -Python
--MongoDBs
--Git y GitHUb
+-MongoDB con integridad
+-Git y GitHUb profesional
